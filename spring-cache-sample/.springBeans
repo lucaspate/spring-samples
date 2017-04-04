@@ -7,7 +7,7 @@
 	</configSuffixes>
 	<enableImports><![CDATA[false]]></enableImports>
 	<configs>
-		<config>java:com.lucaspate.spring.samples.SpringCacheSampleApplication</config>
+		<config>java:com.lucaspate.spring.samples.cache.SpringCacheSampleApplication</config>
 	</configs>
 	<autoconfigs>
 	</autoconfigs>

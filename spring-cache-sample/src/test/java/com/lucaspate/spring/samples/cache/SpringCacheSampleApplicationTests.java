@@ -1,4 +1,4 @@
-package com.lucaspate.spring.samples;
+package com.lucaspate.spring.samples.cache;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
