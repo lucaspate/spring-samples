@@ -1,4 +1,4 @@
-package com.lucaspate;
+package com.lucaspate.spring.samples;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
