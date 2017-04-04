@@ -54,3 +54,4 @@ target
 .classpath
 .project
 .mvn
+.recommenders
